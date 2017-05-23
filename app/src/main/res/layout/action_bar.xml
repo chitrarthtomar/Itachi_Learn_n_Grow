@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/act_nav"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:background="@color/colorPrimary"
+android:orientation="vertical"
+android:theme="@style/Base.ThemeOverlay.AppCompat.Dark.ActionBar">
+
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/welcome"
+    android:textColor="@android:color/background_light"
+    android:textSize="24dp"
+    android:id="@+id/Heading"
+    />
+</android.support.v7.widget.Toolbar>

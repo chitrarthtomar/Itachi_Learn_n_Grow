@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@mipmap/ic_home_black_24dp"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/nav_search"
+        android:icon="@mipmap/ic_magnify_black_24dp"
+        android:title="Search" />
+
+    <item android:title="Courses"
+        android:id="@+id/nav_courses"
+        android:icon="@mipmap/ic_book_open_black_24dp"/>
+
+    <item android:title="About"
+        android:id="@+id/nav_settings"
+        android:icon="@mipmap/ic_settings_black_24dp"/>
+
+    <item android:title="Login/Register"
+    android:id="@+id/nav_login"
+    android:icon="@mipmap/ic_login_black_24dp"/>
+</menu>

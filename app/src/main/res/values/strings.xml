@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Courses</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="welcome">Welcome to the app</string>
+
+    <string name="contact">Contact us at: chitrarth007@gmail.com</string>
+    <string name="madeby">Creaters:</string>
+    <string name="chit">Chitrarth Tomar</string>
+    <string name="az">Azeem Moh.</string>
+    <string name="ash">Ashwini M.</string>
+    <string name="ferdi">Ferdinent Thomas</string>
+    <string name="hello_blank_fragment">Home Fragment</string>
+    <string name="title_activity_youtube">Youtube</string>
+</resources>

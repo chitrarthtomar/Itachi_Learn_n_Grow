@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="G:\Courses\app\libs\YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="G:\Courses\app\build\intermediates\pre-dexed\debug\YouTubeAndroidPlayerApi_b73280c9c92a79915b4d32ef6e9a1cc1c2d17f2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP 15 P077 TX\.android\build-cache\af1892466c75e0b833ee3767ae32261121ea278c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="G:\Courses\app\build\intermediates\pre-dexed\debug\classes_90244ed7e91557b21a41f9979ebb3e78c2a5fafd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Courses\app\libs\YouTubeAndroidPlayerApi.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="G:\Courses\app\build\intermediates\transforms\dex\debug\folders\1000\2\YouTubeAndroidPlayerApi_b73280c9c92a79915b4d32ef6e9a1cc1c2d17f2d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP 15 P077 TX\.android\build-cache\9fc63510ffd26ff35fb4a3789784a6f96d17bcbe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="G:\Courses\app\build\intermediates\pre-dexed\debug\classes_dc606bd886d93b49154aab1aacee7fd4e718eb9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP 15 P077 TX\.android\build-cache\e819b8f8ec45d5ba7aaa3e71852216b80249eacb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="G:\Courses\app\build\intermediates\pre-dexed\debug\classes_a9408b976b7324948015cbf402adc7c3511a9a73.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Courses\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="G:\Courses\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d0a02dc8e880e915680112f98508e9dfb02ea884\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP 15 P077 TX\.android\build-cache\7b25a95eb14aa148e21ba090882309006c8f9d63\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="G:\Courses\app\build\intermediates\pre-dexed\debug\classes_0facb970f6e26eae900a617568cad05af232d2a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP 15 P077 TX\.android\build-cache\3acc928aa25dad9635d0c6bd7aba7fc0304aaebc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="G:\Courses\app\build\intermediates\pre-dexed\debug\classes_724641a170cbdca42c0a7acdf5ab917af997242d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP 15 P077 TX\.android\build-cache\d0075da8d8dbfe3bac7b2d8384bf6ad0fa35dddc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="G:\Courses\app\build\intermediates\pre-dexed\debug\classes_cc5a82b28beea065b317bc21fda7da6d085de80c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Courses\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ad9b578a015c957c4337c95af254112c13bcd0e7">
+        <dex dex="G:\Courses\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_14f6dd0f359fefd7b47f8be3141b18cefbc74bc5\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP 15 P077 TX\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="G:\Courses\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_e6840700bcf2436dcc7d39baff4aa3f519792fdc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP 15 P077 TX\.android\build-cache\544705da976ae377b39248a7bdfab998224ca1a1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="G:\Courses\app\build\intermediates\pre-dexed\debug\classes_3878df284d4e4f784f08530f34205d22b40425c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP 15 P077 TX\.android\build-cache\1efe714bcb3beea83308d21a011300ff36186a30\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="G:\Courses\app\build\intermediates\pre-dexed\debug\classes_58829f8b22c02484069ebef5aef83ab2aa39a28f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP 15 P077 TX\.android\build-cache\46ae30979a9f7638b8b9a615f99e26de4addd01b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="G:\Courses\app\build\intermediates\pre-dexed\debug\classes_86804193fa4070bcf2408804228bb0b88d532d96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP 15 P077 TX\.android\build-cache\d8a9808679de73b62c362a29b6070960115df946\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="G:\Courses\app\build\intermediates\pre-dexed\debug\classes_58fd99a7384bad1387e1aba0a4b9bed147e31f36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP 15 P077 TX\.android\build-cache\2b55fbbe1ec075bd5e4dfc8cb6ed959e68208b90\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="G:\Courses\app\build\intermediates\pre-dexed\debug\classes_f1056ad0162083cc0864d4109df08817dcd396f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP 15 P077 TX\.android\build-cache\0f03bbf35995a15e4c75a7589e5687421a2f30fc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="G:\Courses\app\build\intermediates\pre-dexed\debug\classes_62eb26c80dd146ad791738da7322edaa3ba087a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP 15 P077 TX\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="G:\Courses\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_6b4f2b8f07fa926759ef4f1b7319481a5c9c8079.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP 15 P077 TX\.android\build-cache\7ffb07326372a1bee792dd1f2188a10275ed52c8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="G:\Courses\app\build\intermediates\pre-dexed\debug\classes_c1318a825978557326dc7618da9170e8b95ae61d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP 15 P077 TX\.android\build-cache\f7f4de59d80aed6f824ede741c89e128c0f06879\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="G:\Courses\app\build\intermediates\pre-dexed\debug\classes_c6e6401710adb3fd59263e79249da09f3ae8cf92.jar" />
+    </item>
+
+</items>
